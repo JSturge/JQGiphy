@@ -1,3 +1,2 @@
-A Pen created at CodePen.io. You can find this one at http://codepen.io/JSturge/pen/jywMaj.
 
- A search application for GIPHY
+ A search application for GIPHY, simply type in what GIF you would like to find and hit enter or search to have them show up.
